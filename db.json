@@ -4,22 +4,22 @@
         {
             "dept_name": "Administration",
             "emp_id": "2",
-            "avg (employees.salary)": "6250"
+            "avg": "6250"
         },
         {
             "dept_name": "Finance",
             "emp_id": "4",
-            "avg (employees.salary)": "6000"
+            "avg": "6000"
         },
         {
             "dept_name": "Human Resources",
             "emp_id": "1",
-            "avg (employees.salary)": "5000"
+            "avg": "5000"
         },
         {
             "dept_name": "Sales",
             "emp_id": "3",
-            "avg (employees.salary)": "5983.333333"
+            "avg": "5983.333333"
         }
     ]
 }
