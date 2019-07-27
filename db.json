@@ -21,5 +21,42 @@
             "emp_id": "3",
             "avg": "5983.333333"
         }
+    ],
+ "AvrOrder": [
+        {
+            "cust_id": "20",
+            "cust_name": "Maria Larsson",
+            "REALValue": "9247.5",
+            "TimesOrdered": "4",
+            "AverageOrderSum": "2311.875"
+        },
+        {
+            "cust_id": "6",
+            "cust_name": "Christina Aguilera",
+            "REALValue": "19224.55",
+            "TimesOrdered": "10",
+            "AverageOrderSum": "1922.455"
+        },
+        {
+            "cust_id": "49",
+            "cust_name": "Pascale Cartrain",
+            "REALValue": "7641",
+            "TimesOrdered": "5",
+            "AverageOrderSum": "1528.2"
+        },
+        {
+            "cust_id": "19",
+            "cust_name": "Diego Roel",
+            "REALValue": "22548.9",
+            "TimesOrdered": "15",
+            "AverageOrderSum": "1503.26"
+        },
+        {
+            "cust_id": "52",
+            "cust_name": "Miguel Angel Paolino",
+            "REALValue": "27400.25",
+            "TimesOrdered": "19",
+            "AverageOrderSum": "1442.118421"
+        }
     ]
 }
