@@ -95,28 +95,6 @@
             "REALValue": "28138229.6"
         }
     ],
-  "SuplQuant": [
-        {
-            "country": "USA",
-            "SuppliersQuantity": "4"
-        },
-        {
-            "country": "France",
-            "SuppliersQuantity": "3"
-        },
-        {
-            "country": "Australia",
-            "SuppliersQuantity": "2"
-        },
-        {
-            "country": "Canada",
-            "SuppliersQuantity": "2"
-        },
-        {
-            "country": "Japan",
-            "SuppliersQuantity": "2"
-        }
-    ],
     "ProdHero": [
         {
             "category_name": "Beverages",
