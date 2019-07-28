@@ -58,5 +58,27 @@
             "TimesOrdered": "19",
             "AverageOrderSum": "1442.118421"
         }
+    ],
+ "AvrUnit": [
+        {
+            "AverageUnit": "52.45764818",
+            "country": "Spain"
+        },
+        {
+            "AverageUnit": "49.61752137",
+            "country": "Sweden"
+        },
+        {
+            "AverageUnit": "38.70369212",
+            "country": "Mexico"
+        },
+        {
+            "AverageUnit": "31.43685185",
+            "country": "Canada"
+        },
+        {
+            "AverageUnit": "29.4483871",
+            "country": "Brazil"
+        }
     ]
 }
